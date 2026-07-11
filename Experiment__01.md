@@ -15,4 +15,10 @@ enc = caesar_encrypt(message, shift)
 dec = caesar_decrypt(enc, shift)
 print("Original :", message)
 print("Encrypted:", enc)
-print("Decrypted:", dec)<img width="773" height="701" alt="Screenshot 2026-07-11 133237" src="https://github.com/user-attachments/assets/6de5c145-38b9-4019-8a06-f68be472c854" />
+print("Decrypted:", dec)
+
+
+
+
+
+<img width="773" height="701" alt="Screenshot 2026-07-11 133237" src="https://github.com/user-attachments/assets/6de5c145-38b9-4019-8a06-f68be472c854" />
